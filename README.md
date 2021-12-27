@@ -34,6 +34,9 @@ Abstract: When do agricultural transformations impact social stability? Cash cro
 
 <h3> Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19 [with Melissa Pavlik, Hilary Matfess, & Travis Curtice] (International Security, (2021) 46 (2): 130–165) </h3> 
 Abstract: Do governments use public health crises as an opportunity to cement their authority through the repression of civilians? We argue crises create windows for opportunistic repression. We study the relationship between coronavirus (COVID-19) shutdown policies and state violence against civilians in Africa, and find repression increases half a standard deviation on average after states implement shutdown orders. Through a sub-national case study of repression in Uganda we demonstrate repression differentially increased in opposition areas after the shutdown mandate compared to pro-government districts. The relationship is not driven by reactive repression which occurs in response to protests or riots. The results have implications for theories of repression, authoritarian survival, and the relationship between pandemics and political violence.
+<a href="https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the"> Publisher Copy </a>  
+<a href="https://www.washingtonpost.com/politics/2020/07/31/autocratic-governments-are-using-covid-19-pretext-clamp-down-opponents/" Monkey Cage Article </a>
+<a href="https://theworld.org/stories/2021-10-27/opportunity-seizure-part-i" Public Radio International Article </a>  
 
 <h2> Transitional Justice </h2> 
 <h3> Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina (with Pearce
