@@ -1,7 +1,4 @@
 # Donald Grasse
-title: [The title of your site]
-description: [A short description of your site's purpose]
-
 <h1> Welcome! I am a political science PhD Candidate at Emory University. </h1>
 
 <h1> About Me </h1> 
