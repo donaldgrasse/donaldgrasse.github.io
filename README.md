@@ -8,7 +8,7 @@ My research  is in political economy, and seeks to understand the causes and con
 My main lines of research examine the causes and legacies of state repression, the economic sources of social conflict, interpersonal violence, and rebellion, along with the efficacy of interventions intended to reconcile social divisions after conflicts. Regionally, my research focuses on the Southeast Asia and the Americas. 
 
 View my CV 
-<a href="https://www.dropbox.com/s/ggyo73ez58dblk5/grasse_cv_nov15.pdf?dl=0"> here </a>. Find me on twitter <a href="https://twitter.com/donplyr"> here </a>.  
+<a href="https://www.dropbox.com/s/ggyo73ez58dblk5/grasse_cv_nov15.pdf?dl=0"> here. </a> Find me on twitter <a href="https://twitter.com/donplyr"> here. </a>  
 
 <h1> Research </h1>
 My research is divided into three themes: the consequences of coercive governing institutions, the effect of global shifts on contentious politics domestically, and the efficacy of transitional justice.  
