@@ -37,6 +37,7 @@ Abstract: Do governments use public health crises as an opportunity to cement th
 <a href="https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the"> Publisher Copy </a>  
 <a href="https://www.washingtonpost.com/politics/2020/07/31/autocratic-governments-are-using-covid-19-pretext-clamp-down-opponents/"> Monkey Cage Article </a>
 <a href="https://theworld.org/stories/2021-10-27/opportunity-seizure-part-i"> Public Radio International Article </a>  
+<a href="https://www.dropbox.com/sh/9xkapmt9wpgn9ue/AACpaSPTfpYhn7-o3eiZ4Xzsa?dl=0"> Replication </a> 
 
 <h2> Transitional Justice </h2> 
 <h3> Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina (with Pearce
