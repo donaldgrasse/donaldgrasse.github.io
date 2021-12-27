@@ -1,4 +1,4 @@
-# Donald (Don) Grasse
+# Donald Grasse
 
 <h1> Welcome! I am a political science PhD Candidate at Emory University. </h1>
 
@@ -11,7 +11,7 @@ View my CV
 <a href="https://www.dropbox.com/s/ggyo73ez58dblk5/grasse_cv_nov15.pdf?dl=0"> here </a>
 
 <h1> Research </h1>
-<h2> Resources and Conflict </h2> 
 <h2> Consequences of Coercion and Contention </h2> 
+<h2> Global Shifts and Domestic Contention </h2> 
 <h2> Transitional Justice </h2> 
 
