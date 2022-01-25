@@ -9,7 +9,7 @@ View my CV
 <a href="https://www.dropbox.com/s/ggyo73ez58dblk5/grasse_cv_nov15.pdf?dl=0"> here. </a> Find me on Twitter <a href="https://twitter.com/donplyr"> here. </a>  
 
 <h1> Research </h1>
-My research is divided into three themes: the consequences of coercive governing institutions, the effect of global shifts on contentious politics domestically, and the efficacy of transitional justice.  
+My research is divided into three themes: the consequences of coercive governing institutions, the effect of global shifts on contentious politics domestically, and the efficacy of transitional justice processes.   
 <h2> Consequences of Coercion and Contention </h2> 
 
 <h3> Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge (Revise and Resubmit) </h3> 
