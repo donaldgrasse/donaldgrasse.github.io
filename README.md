@@ -25,7 +25,7 @@ Abstract: Does public insecurity have deep historical roots? I argue colonizatio
 
 <h2> Global Shifts and Domestic Contention </h2> 
 
-<h3> Oil Crops and Social Conflict: Evidence from Indonesia (Revise and Resubmit)</h3> 
+<h3> Oil Crops and Social Conflict: Evidence from Indonesia (Accepted, Journal of Conflict Resolution)</h3> 
 
 Abstract: When do agricultural transformations impact social stability? Cash crops are typically associated with economic prosperity and social peace.  I argue agricultural booms may spur violent conflict over resource allocation by pitting would-be producers against incumbent landowners when the gains from production are concentrated and the negative externalities are diffuse. I study the rapid expansion of oil palm in Indonesia, a growingly important crop in the global economy. I find when oil palm grows more valuable and expands within producing districts, violent resource conflicts increase. The positive relationship does not exist for other cash crops, and is moderated by the presence of sustainability certified processing mills. The results connect commodity shocks to non-state violence, and suggest land use change is an important mechanism connecting agricultural booms to conflict.
 <a href="https://www.dropbox.com/s/27vf1ep9o5hahwj/crops-conflict-indonesia-revised.pdf?dl=0"> Most Recent Draft </a>
