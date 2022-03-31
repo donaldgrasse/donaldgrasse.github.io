@@ -14,8 +14,7 @@ My research is divided into three themes: the consequences of coercive governing
 
 <h3> Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge (Revisions Sumbitted) </h3> 
 Abstract: Does mass repression have a long-term economic legacy, and if so, what explains persistence? I argue repression can undermine development by delimiting human capital. I study the aftermath of the Khmer Rouge in Cambodia. The regime implemented a campaign of violence to reorganize society, yet governing elites varied across the ideological spectrum. I exploit an arbitrary border that allocated villages to either the loyalist Mok or the moderate Sy in Kampong Speu province. Using a regression discontinuity design, I find villages in the more extremist Southwest zone are poorer today compared to villages in the adjacent West zone, and had lower human capital immediately after the regime. I find lower returns to education in the former Southwest, suggesting a poverty trap, but I find no evidence of other prevailing persistence mechanisms. My findings add a novel pathway to the library of mechanisms which explain why historical coercion undermines development.
-<a href="https://www.dropbox.com/s/p9aev93obh9eiea/development-legacy-dictatorship-2022.pdf?dl=0"> Most Recent Draft </a>
-[development-legacy-dictatorship-2022.pdf](https://github.com/donaldgrasse/donaldgrasse.github.io/files/8393484/development-legacy-dictatorship-2022.pdf)
+[Most Recent Draft](https://github.com/donaldgrasse/donaldgrasse.github.io/files/8393484/development-legacy-dictatorship-2022.pdf)
 
 
 <h3> The Logic and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan (with Renard Sexton and Austin Wright)(Under Review) </h3> 
