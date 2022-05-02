@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll 
+#jekyll-theme-minimal
 
 title: Donald Grasse
 description: PhD Candidate | Political Science | Emory University
