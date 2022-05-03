@@ -2,3 +2,12 @@ theme: jekyll-theme-minimal
 
 title: Donald Grasse
 description: PhD Candidate | Political Science | Emory University
+
+url: https://donaldgrasse.github.io
+
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "donaldgrasse.github.io"
+
+# Social Sharing
+twitter: twitter.com/donplyr
+  username: donplyr
