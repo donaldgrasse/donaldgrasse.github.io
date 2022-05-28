@@ -2,6 +2,7 @@
 ---
 layout: template
 title: "about"
+filename: about.md
 permalink: /about/
 ---
 
