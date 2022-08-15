@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donald Grasse / donaldgrasse.github.io"
+title                    : "Donald Grasse"
 title_separator          : "-"
 name                     : &name "Donald Grasse"
 description              : &description "personal description"
