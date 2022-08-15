@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Donald Grasse"
   avatar           : "grasse-headshot.jpeg"
-  bio              : "Postdoctoral Fellow | Political Economy of Security | Center for International Studies | USC"
-  location         : "University of Southern California"
+  bio              : "Postdoctoral Fellow | Political Economy of Security | Center for International Studies | University of Southern California"
+  location         : "USC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=WKbxvFQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@donplyr"
   vine             :
   weibo            :
   xing             :
