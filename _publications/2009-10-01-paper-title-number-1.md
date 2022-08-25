@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Opportunistic Repression: Civilian Targeting by the State in Response to COVID-19"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/opportunistic-repression
+excerpt: 'Across the globe, states have attempted to contain COVID-19 by restricting movement, closing schools and businesses, and banning large gatherings. Such measures have expanded the degree of sanctioned state intervention into civilians' lives. But existing theories of preventive and responsive repression cannot explain why some countries experienced surges in repression after states in Africa initiated COVID-19-related lockdowns. While responsive repression occurs when states quell protests or riots, “opportunistic repression” arises when states use crises to suppress the political opposition. An examination of the relationship between COVID-19 shutdown policies and state violence against civilians in Africa tests this theory of opportunistic repression. Findings reveal a large and statistically significant relationship between shutdowns and repression, which holds after conditioning for the spread and lethality of the disease within-country and over time. A subnational case study of repression in Uganda provides evidence that the increase in repression appears to be concentrated in opposition areas that showed less support for Yoweri Museveni in the 2016 elections. Opportunistic repression provides a better explanation than theories of preventive or responsive repression for why Uganda experienced a surge in repression in 2020 and in what areas. The results have implications for theories of repression, authoritarian survival, the politics of emergency, and security.'
+date: 2021-10-25
+venue: 'International Security'
+paperurl: 'https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Donald Grasse, Melissa Pavlik, Hilary Matfess, Travis B. Curtice (2021). "Opportunistic Repression: Civilian Targeting by the State in Response to COVID-19." International Security (2021) 46 (2): 130–165.
