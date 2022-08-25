@@ -1,7 +1,7 @@
 ---
 title: "Oil Crops and Social Conflict: Evidence from Indonesia"
 collection: publications
-permalink: /publication/oil-crops-conflict
+permalink: /publications/oil-crops-conflict
 excerpt: 'When do agricultural transformations impact social stability? Cash crops are typically
 associated with economic prosperity and social peace. I argue agricultural booms
 may spur violent conflict over resource allocation by pitting would-be producers against
