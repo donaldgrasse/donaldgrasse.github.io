@@ -13,7 +13,7 @@ positive relationship does not exist for other cash crops, nor other types of co
 is moderated by the presence of sustainability certified processing mills. The results
 connect commodity shocks to non-state violence over resources, and suggest land use
 change is an important mechanism connecting agricultural booms to social conflict.'
-date: 2022
+date: 2022-08-01
 venue: Journal of Conflict Resolution 
 paperurl: 'http://donaldgrasse.github.io/files/crops-conflict-2022-accepted.pdf'
 citation: 'Grasse, Donald. (2022). "Oil Crops and Social Conflict: Evidence from Indonesia"; _ Journal of Conflict Resolution_. Volume: 66 Issue: 7-8, page(s): 1422-1448.'
