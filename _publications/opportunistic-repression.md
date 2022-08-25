@@ -1,12 +1,28 @@
 ---
-title: "Opportunistic Repression: Civilian Targeting by the State in Response to COVID-19"
+title: "Oil Crops and Social Conflict: Evidence from Indonesia"
 collection: publications
-permalink: /publications/opportunistic-repression
-excerpt: 'Across the globe, states have attempted to contain COVID-19 by restricting movement, closing schools and businesses, and banning large gatherings. Such measures have expanded the degree of sanctioned state intervention into civilians' lives. But existing theories of preventive and responsive repression cannot explain why some countries experienced surges in repression after states in Africa initiated COVID-19-related lockdowns. While responsive repression occurs when states quell protests or riots, “opportunistic repression” arises when states use crises to suppress the political opposition. An examination of the relationship between COVID-19 shutdown policies and state violence against civilians in Africa tests this theory of opportunistic repression. Findings reveal a large and statistically significant relationship between shutdowns and repression, which holds after conditioning for the spread and lethality of the disease within-country and over time. A subnational case study of repression in Uganda provides evidence that the increase in repression appears to be concentrated in opposition areas that showed less support for Yoweri Museveni in the 2016 elections. Opportunistic repression provides a better explanation than theories of preventive or responsive repression for why Uganda experienced a surge in repression in 2020 and in what areas. The results have implications for theories of repression, authoritarian survival, the politics of emergency, and security.'
-date: 2021-10-25
-venue: 'International Security'
-paperurl: 'https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the'
-citation: Donald Grasse, Melissa Pavlik, Hilary Matfess, Travis B. Curtice (2021). "Opportunistic Repression: Civilian Targeting by the State in Response to COVID-19." International Security (2021) 46 (2): 130–165.
+permalink: /publications/oil-crops-conflict
+excerpt: 'When do agricultural transformations impact social stability? Cash crops are typically
+associated with economic prosperity and social peace. I argue agricultural booms
+may spur violent conflict over resource allocation by pitting would-be producers against
+incumbent landowners when the gains from production are concentrated and the negative
+externalities are diffuse. I study the rapid expansion of oil palm in Indonesia, a
+growingly important crop in the global economy. I find when oil palm grows more valuable
+and expands within producing districts, violent resource conflicts increase. The
+positive relationship does not exist for other cash crops, nor other types of conflict, and
+is moderated by the presence of sustainability certified processing mills. The results
+connect commodity shocks to non-state violence over resources, and suggest land use
+change is an important mechanism connecting agricultural booms to social conflict.'
+date: 2022-08-01
+venue: Journal of Conflict Resolution 
+paperurl: 'http://donaldgrasse.github.io/files/crops-conflict-2022-accepted.pdf'
+citation: 'Grasse, Donald. (2022). "Oil Crops and Social Conflict: Evidence from Indonesia"; _Journal of Conflict Resolution_. Volume: 66 Issue: 7-8, page(s): 1422-1448.'
 ---
 
-Recommended citation: Donald Grasse, Melissa Pavlik, Hilary Matfess, Travis B. Curtice (2021). "Opportunistic Repression: Civilian Targeting by the State in Response to COVID-19." International Security (2021) 46 (2): 130–165.
+[Download paper here](http://donaldgrasse.github.io/files/crops-conflict-2022-accepted.pdf)
+
+Recommended citation: Grasse, Donald. (2022). "Oil Crops and Social Conflict: Evidence from Indonesia"; _ Journal of Conflict Resolution_. Volume: 66 Issue: 7-8, page(s): 1422-1448.'
+
+
+
+
