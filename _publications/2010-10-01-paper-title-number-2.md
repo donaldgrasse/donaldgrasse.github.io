@@ -15,7 +15,7 @@ connect commodity shocks to non-state violence over resources, and suggest land 
 change is an important mechanism connecting agricultural booms to social conflict.'
 date: 2022
 venue: Journal of Conflict Resolution 
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://donaldgrasse.github.io/files/crops-conflict-2022-accepted.pdf'
 citation: 'Grasse, Donald. (2022). "Oil Crops and Social Conflict: Evidence from Indonesia"; _ Journal of Conflict Resolution_. Volume: 66 Issue: 7-8, page(s): 1422-1448.'
 ---
 
