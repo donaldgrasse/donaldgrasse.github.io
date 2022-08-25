@@ -6,7 +6,7 @@ excerpt: 'Across the globe, states have attempted to contain COVID-19 by restric
 date: 2021-10-25
 venue: 'International Security'
 paperurl: 'https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: Donald Grasse, Melissa Pavlik, Hilary Matfess, Travis B. Curtice (2021). "Opportunistic Repression: Civilian Targeting by the State in Response to COVID-19." International Security (2021) 46 (2): 130–165.
 ---
 
 [Download paper here](https://direct.mit.edu/isec/article/46/2/130/107696/Opportunistic-Repression-Civilian-Targeting-by-the)
