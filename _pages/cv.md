@@ -51,7 +51,7 @@ Works in Progress
 ======
 
 * "What drives support for peace in Afghanistan? Three wave panel survey." with Renard Sexton, Christoph Zuercher and Manu Singh
-* "Unintended side effects of agricultural modernization in conflict zones: Evidence from  Southern Thailand" with Renard Sexton and Austin Wright\\
+* "Unintended side effects of agricultural modernization in conflict zones: Evidence from  Southern Thailand" with Renard Sexton and Austin Wright
 * "A meta-analysis of aid and conflict studies" with Alicia Chen, Jenny Kim and Dotan Haim
 
 
