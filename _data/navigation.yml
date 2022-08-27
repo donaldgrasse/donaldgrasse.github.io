@@ -6,6 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Working Papers"
+    url: /working-papers/  
+    
   - title: "Portfolio"
     url: /portfolio/
         
@@ -14,6 +17,7 @@ main:
     
   - title: "CV"
     url: /cv/
+  
     
   #- title: "Guide"
   #  url: /markdown/
