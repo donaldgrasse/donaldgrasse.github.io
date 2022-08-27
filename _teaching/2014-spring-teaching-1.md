@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Political Science 120: Introduction to Comparative Politics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Emory University, Political Science"
 date: 2014-01-01
-location: "City, Country"
+location: "Atlanta, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Course Descrpition: This course offers an introduction to the comparative study of modern political systems. It outlines a number of the major theories of comparative political analysis and applies to them to a selection of democratic, authoritarian, and hybrid systems. It examines how these systems function internally and how they interact with their societies, economies, and international environments, as well as how they change over time and how they undergo transitions from one tyepe to another. 
