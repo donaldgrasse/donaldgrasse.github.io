@@ -87,11 +87,11 @@ Grader
 
 Professional Activities
 ====
-Referee: _International Interactions_, 2021 
-Discussant: American Political Science Association Annual Meeting, 2022 
-Research Assistance: 
-* Jennifer Gandhi (Emory University, Political Science) - 2018, 2019, 2020, 2021
-* Craig Hadley (Emory University, Anthropology) - 2021 
-* Natalia Bueno (Emory University) - 2021 
-* Dan Reiter (Emory University) - 2017, 2018 
+* Referee: _International Interactions_, 2021 
+* Discussant: American Political Science Association Annual Meeting, 2022 
+* Research Assistance: 
+  * Jennifer Gandhi (Emory University, Political Science) - 2018, 2019, 2020, 2021
+  * Craig Hadley (Emory University, Anthropology) - 2021 
+  * Natalia Bueno (Emory University, Political Science) - 2021 
+  * Dan Reiter (Emory University,Political Science) - 2017, 2018 
   
