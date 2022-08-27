@@ -6,7 +6,7 @@ excerpt: 'Abstract:  Does mass repression have a long-term economic legacy, and 
 date: 2022-08-01
 venue: 'American Political Science Review (Conditional Accept)'
 paperurl: 'http://donaldgrasse.github.io/files/dev-legacies-dictatorship-final.pdf'
-citation: 'Grasse, Donald (2022). "Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge." '
+citation: 'Grasse, Donald (2022). "Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge." Working Paper. '
 ---
 
 [Download paper here](http://donaldgrasse.github.io/files/dev-legacies-dictatorship-final.pdf)
