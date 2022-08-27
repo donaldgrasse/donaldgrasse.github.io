@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Emory University, Political Science"
-date: 2014-01-01
+date: 2020-08-01
 location: "Atlanta, United States"
 ---
 
