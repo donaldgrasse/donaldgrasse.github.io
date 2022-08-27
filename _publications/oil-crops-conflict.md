@@ -1,5 +1,5 @@
 ---
-title: "Oil Crops and Social Conflict: Evidence from Indonesia"
+title: "  Oil Crops and Social Conflict: Evidence from Indonesia"
 collection: publications
 permalink: /publications/oil-crops-conflict
 excerpt: 'When do agricultural transformations impact social stability? Cash crops are typically
