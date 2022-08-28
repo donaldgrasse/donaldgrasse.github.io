@@ -1,24 +1,17 @@
 ---
-title: "Oil Crops and Social Conflict: Evidence from Indonesia"
+title: "Job Market Paper - Developmental Legacies of Draconian Dictatorships: Evidence from the Khmer Rouge"
 collection: publications
-permalink: /publications/oil-crops-conflict
-excerpt: 'When do agricultural transformations impact social stability? Cash crops are typically
-associated with economic prosperity and social peace. I argue agricultural booms
-may spur violent conflict over resource allocation by pitting would-be producers against
-incumbent landowners when the gains from production are concentrated and the negative
-externalities are diffuse. I study the rapid expansion of oil palm in Indonesia, a
-growingly important crop in the global economy. I find when oil palm grows more valuable
-and expands within producing districts, violent resource conflicts increase. The
-positive relationship does not exist for other cash crops, nor other types of conflict, and
-is moderated by the presence of sustainability certified processing mills. The results
-connect commodity shocks to non-state violence over resources, and suggest land use
-change is an important mechanism connecting agricultural booms to social conflict.'
+permalink: /publication/developmental-legacies-dictatorship
+excerpt: 'Abstract:  Does mass repression have a long-term economic legacy, and if so, what explains persistence? I argue repression can undermine development by delimiting human capital. I study the aftermath of the Khmer Rouge in Cambodia. The regime implemented a campaign of violence to reorganize society, yet governing elites varied across the communist ideological spectrum. I exploit an arbitrary border that allocated villages to either the loyalist Mok or the relatively moderate Sy in Kampong Speu province. Using a regression discontinuity design, I find villages in the more extremist Southwest zone are poorer today compared to villages in the adjacent West zone, and had lower human capital immediately after the regime. Exposure to more intense repression shapes labor markets and child health, explaining intergenerational persistence. I find no conclusive evidence for other persistence channels. My findings add a novel pathway to the library of mechanisms which explain why historical coercion undermines development. '
 date: 2022-08-01
-venue: Journal of Conflict Resolution 
-paperurl: 'http://donaldgrasse.github.io/files/crops-conflict-2022-accepted.pdf'
-citation: 'Grasse, Donald. (2022). "Oil Crops and Social Conflict: Evidence from Indonesia"; Journal of Conflict Resolution. Volume: 66 Issue: 7-8, page(s): 1422-1448.'
+venue: 'American Political Science Review (Conditional Accept)'
+paperurl: 'http://donaldgrasse.github.io/files/dev-legacies-dictatorship-final.pdf'
+citation: 'Grasse, Donald (2022). "Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge." Working Paper. '
 ---
 
-[Download paper here](http://donaldgrasse.github.io/files/crops-conflict-2022-accepted.pdf)
+[Download paper here](http://donaldgrasse.github.io/files/dev-legacies-dictatorship-final.pdf)
 
-Recommended citation: Grasse, Donald. (2022). "Oil Crops and Social Conflict: Evidence from Indonesia"; _ Journal of Conflict Resolution_. Volume: 66 Issue: 7-8, page(s): 1422-1448.'
+Recommended citation: Grasse, Donald (2022). "Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge." Job Market Paper. 
+
+
+
