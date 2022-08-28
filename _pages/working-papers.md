@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* "The Strategy and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan." with Renard Sexton and Austin Wright (_Under Review_) 
+* "The Strategy and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan." with Renard Sexton and Austin Wright (_Under Review_) [Download Here](http://donaldgrasse.github.io/files/TLB_Courts_GSW.pdf)
 
 * "Colonial Origins of Insecurity: Evidence from Brazil" [Download Here](http://donaldgrasse.github.io/files/orgins-insecurity-brazil.pdf)
 
