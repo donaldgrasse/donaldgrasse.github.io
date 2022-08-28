@@ -78,11 +78,11 @@ Teaching Experience
 Spring 2021 
   * Research Design and Methods (Political Science 208) - Spring 2020
 
-Tutor
-* Design & Analysis of Experiments (Political Science 585, Graduate) - Spring, 2022
+* Tutor
+  * Design & Analysis of Experiments (Political Science 585, Graduate) - Spring, 2022
 
-Grader
-* The Linear Model (Political Science 509, Graduate)- Spring 2019 
+* Grader
+  * The Linear Model (Political Science 509, Graduate)- Spring 2019 
 
 
 Professional Activities
