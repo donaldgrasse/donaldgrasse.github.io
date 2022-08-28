@@ -2,7 +2,7 @@
 title: "Political Science 120: Introduction to Comparative Politics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-fall-teaching
 venue: "Emory University, Political Science"
 date: 2020-08-01
 location: "Atlanta, United States"
