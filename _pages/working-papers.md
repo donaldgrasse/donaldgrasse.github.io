@@ -11,7 +11,7 @@ redirect_from:
 
 * "The Strategy and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan." with Renard Sexton and Austin Wright (_Under Review_) 
 
-* "Colonial Origins of Insecurity: Evidence from Brazil"
+* "Colonial Origins of Insecurity: Evidence from Brazil" [Download Here](http://donaldgrasse.github.io/files/orgins-insecurity-brazil.pdf)
 
 * "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi
 
