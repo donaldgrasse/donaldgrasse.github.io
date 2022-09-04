@@ -20,4 +20,9 @@ Works in Progress
 * "Unintended side effects of agricultural modernization in conflict zones: Evidence from  Southern Thailand" with Renard Sexton and Austin Wright
 * "A meta-analysis of aid and conflict studies" with Alicia Chen, Jenny Kim and Dotan Haim
 * "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi
-* "Is Transitional Justice Blind? The Link between Culpability and Prosecution in Argentina's Human Rights Trials" with Pearce Edwards and Jennifer Gandhi 
+* "Is Transitional Justice Blind? The Link between Culpability and Prosecution in Argentina's Human Rights Trials" with Pearce Edwards and Jennifer Gandhi
+
+Works in Progress (Methodology) 
+=====
+* How Much Can We Trust Geographic Regression Discontinuity Estimates?
+* Interpreting Covariates in Multiple Regression: A Note on the Table 2 Fallacy
