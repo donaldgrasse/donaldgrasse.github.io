@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Contact 
+========
+dgrasse[at]usc[dot]edu
+
 Appointments
 ======
 * Political Economy of Security Postdoctoral Research Fellow
