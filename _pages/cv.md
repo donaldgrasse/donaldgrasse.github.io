@@ -26,7 +26,7 @@ Education
   * Dissertation Committee: Jennifer Gandhi, Renard Sexton, Natalia Bueno, Adam Glynn 
   * Dissertation Award: Laney Graduate School Outstanding Scholarly Research Award in the Social Sciences (2022)
 * BA in Political Science, Summa Cum Laude, University of Kentucky, 2016
-  * Honors Thesis Winner: Crum Award for best best Political Science research paper in any field, University of Kentucky, 2016
+  * Honors Thesis Winner: Crum Award for best Political Science research paper in any field, University of Kentucky, 2016
 
 
 Research Interests 
