@@ -91,7 +91,7 @@ Spring 2021
 
 Professional Activities
 ====
-* Referee: _International Interactions_, 2021 
+* Referee: _Journal of Politcs_, 2022; _International Interactions_, 2021
 * Discussant: American Political Science Association Annual Meeting, 2022 
 * Research Assistance: 
   * Jennifer Gandhi (Emory University, Political Science) - 2018, 2019, 2020, 2021
