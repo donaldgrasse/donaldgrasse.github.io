@@ -9,9 +9,9 @@ paperurl: 'http://donaldgrasse.github.io/files/dev-legacies-dictatorship-final.p
 citation: 'Grasse, Donald (2022). "Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge." Working Paper. '
 ---
 
-[Download paper here](http://donaldgrasse.github.io/files/dev-legacies-dictatorship-final.pdf)
+[Download paper here](http://donaldgrasse.github.io/files/state-terrror-long-term-development-grasse-apsr.pdf)
 
-Recommended citation: Grasse, Donald (2022). "Developmental Legacies of Draconian Dictatorship: Evidence from the Khmer Rouge." Job Market Paper. 
+Recommended citation: Grasse, Donald (2022). "State Terror and Long-term Development: The Persistence of the Khmer Rouge." American Political Science Review, Forthcoming 
 
 
 
