@@ -15,10 +15,10 @@ dgrasse[at]uchicago[dot]edu
 
 Appointments
 ======
-*Visting Instructor 
-  *M.S. in Computational Analysis & Public Policy
-  *University of Chicago 
-  *November 2023
+* Visting Instructor 
+  * M.S. in Computational Analysis & Public Policy
+  * University of Chicago 
+  * November 2023
   
 * Political Economy of Security Postdoctoral Research Fellow
   * Center for International Studies
