@@ -11,14 +11,19 @@ redirect_from:
 
 Contact 
 ========
-dgrasse[at]usc[dot]edu
+dgrasse[at]uchicago[dot]edu
 
 Appointments
 ======
+*Visting Instructor 
+  *M.S. in Computational Analysis & Public Policy
+  *University of Chicago 
+  *November 2023
+  
 * Political Economy of Security Postdoctoral Research Fellow
   * Center for International Studies
   * University of Southern California 
-  * August 2022-Present
+  * August 2022-August 2023
 
 Education
 ======
@@ -43,11 +48,11 @@ Publications
 Working Papers
 ======
 
-* "The Strategy and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan." with Renard Sexton and Austin Wright (_Under Review_) 
+* "The Strategy and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan." with Renard Sexton and Austin Wright (_Accepted, International Organization_) 
+
+* "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi (_Revise and Resubmit, British Journal of Political Science_)
 
 * "Colonial Origins of Insecurity: Evidence from Brazil"
-
-* "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi
 
 * "Is Transitional Justice Blind? The Link between Culpability and Prosecution in Argentina's Human Rights Trials" with Pearce Edwards and Jennifer Gandhi 
 
@@ -91,7 +96,8 @@ Spring 2021
 
 Professional Activities
 ====
-* Referee: _Journal of Politcs_, 2022; _International Interactions_, 2021
+* Referee: _American Journal of Political Science_, _Comparative Political Studies_, _Conflict Management and Peace
+Science_ 2023;  _Journal of Politcs_, 2022; _International Interactions_, 2021
 * Discussant: American Political Science Association Annual Meeting, 2022 
 * Research Assistance: 
   * Jennifer Gandhi (Emory University, Political Science) - 2018, 2019, 2020, 2021
