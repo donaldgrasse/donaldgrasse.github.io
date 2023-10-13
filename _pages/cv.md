@@ -99,9 +99,4 @@ Professional Activities
 * Referee: _American Journal of Political Science_, _Comparative Political Studies_, _Conflict Management and Peace
 Science_ 2023;  _Journal of Politcs_, 2022; _International Interactions_, 2021
 * Discussant: American Political Science Association Annual Meeting, 2022 
-* Research Assistance: 
-  * Jennifer Gandhi (Emory University, Political Science) - 2018, 2019, 2020, 2021
-  * Craig Hadley (Emory University, Anthropology) - 2021 
-  * Natalia Bueno (Emory University, Political Science) - 2021 
-  * Dan Reiter (Emory University,Political Science) - 2017, 2018 
-  
+
