@@ -1,5 +1,5 @@
 ---
-title: "Database Management: Introduction to Comparative Politics"
+title: "Database Management: DCS Graduate Development Program"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/2023-fall-teaching
