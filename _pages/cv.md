@@ -11,7 +11,7 @@ redirect_from:
 
 Contact 
 ========
-dgrasse[at]uchicago[dot]edu
+dgrassephd[at]gmail[dot]com
 
 Appointments
 ======
@@ -48,8 +48,6 @@ Publications
 Working Papers
 ======
 
-* "The Strategy and Impacts of Rebel Public Services Provision: Evidence from Taliban Courts in Afghanistan." with Renard Sexton and Austin Wright (_Accepted, International Organization_) 
-
 * "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi (_Revise and Resubmit, British Journal of Political Science_)
 
 * "Colonial Origins of Insecurity: Evidence from Brazil"
@@ -59,9 +57,8 @@ Working Papers
 Works in Progress 
 ======
 
+*Climate Change, Property Rights, and Conflict: Evidence from Nigeria
 * "What drives support for peace in Afghanistan? Three wave panel survey." with Renard Sexton, Christoph Zuercher and Manu Singh
-* "Unintended side effects of agricultural modernization in conflict zones: Evidence from  Southern Thailand" with Renard Sexton and Austin Wright
-* "A meta-analysis of aid and conflict studies" with Alicia Chen, Jenny Kim and Dotan Haim
 
 
 Grants, Awards, and Fellowships
@@ -80,6 +77,8 @@ Invited Talks and Conference Presentations
 Teaching Experience
 =====
 
+*Database Management - Fall 2023
+
 * Co-instructor: Introduction to Comparative Politics (Political Science 120) - Fall 2020, 2021 
 
 * Teaching Assistant: 
@@ -96,7 +95,7 @@ Spring 2021
 
 Professional Activities
 ====
-* Referee: _American Journal of Political Science_, _Comparative Political Studies_, _Conflict Management and Peace
-Science_ 2023;  _Journal of Politcs_, 2022; _International Interactions_, 2021
+* Referee: _British Journal of Political Science_ (2024); _American Journal of Political Science_, _Comparative Political Studies_, _Conflict Management and Peace
+Science_ (2023);  _Journal of Politcs_, (2022); _International Interactions_, (2021)
 * Discussant: American Political Science Association Annual Meeting, 2022 
 
