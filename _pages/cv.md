@@ -11,10 +11,15 @@ redirect_from:
 
 Contact 
 ========
-dgrassephd[at]gmail[dot]com
+dgrasse[at]cornell[dot]edu
 
 Appointments
 ======
+* Visiting Assistant Professor
+  * Department of Government
+  * Cornell University
+  * July 2024
+
 * Visting Instructor 
   * M.S. in Computational Analysis & Public Policy
   * University of Chicago 
