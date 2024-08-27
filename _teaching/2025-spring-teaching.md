@@ -1,5 +1,5 @@
 ---
-title: "GOVT 6029 - Advanced Regression Analysis"
+title: "Advanced Regression Analysis"
 collection: teaching
 type: "Graduate course"
 permalink: /2025-spring-teaching
