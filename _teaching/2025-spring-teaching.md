@@ -1,7 +1,7 @@
 ---
 title: "GOVT 6029 - Advanced Regression Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /2025-spring-teaching
 venue: "Cornell University, Government"
 date: 2020-08-01
