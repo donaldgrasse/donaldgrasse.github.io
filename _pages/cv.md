@@ -53,16 +53,15 @@ Publications
 Working Papers
 ======
 
-* "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi (_Revise and Resubmit, British Journal of Political Science_)
+* "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi (_Accepted, British Journal of Political Science_)
 
-* "Colonial Origins of Insecurity: Evidence from Brazil"
-
-* "Is Transitional Justice Blind? The Link between Culpability and Prosecution in Argentina's Human Rights Trials" with Pearce Edwards and Jennifer Gandhi 
+* "Is Transitional Justice Blind? The Link between Culpability and Prosecution in Argentina's Human Rights Trials" with Pearce Edwards and Jennifer Gandhi (_Revise and Resubmit, Journal of Politics_)
 
 Works in Progress 
 ======
 
-*Climate Change, Property Rights, and Conflict: Evidence from Nigeria
+* Climate Change, Property Rights, and Conflict: Evidence from Nigeria
+
 * "What drives support for peace in Afghanistan? Three wave panel survey." with Renard Sexton, Christoph Zuercher and Manu Singh
 
 
@@ -74,6 +73,7 @@ Grants, Awards, and Fellowships
 
 Invited Talks and Conference Presentations
 =====  
+* Empirical Studies of Conflict (ESOC) 2022, 2024
 * Virtual Workshop on Authoritarian Regimes (VWAR), 2021 
 * Southeast Asia Research Group (SEAREG), 2021 
 * Midwestern Political Science Association, 2019, 2021 
@@ -82,7 +82,8 @@ Invited Talks and Conference Presentations
 Teaching Experience
 =====
 
-*Database Management - Fall 2023
+* Climate Change and International Security - Cornell University, Fall 2024
+* Database Management - Fall 2023
 
 * Co-instructor: Introduction to Comparative Politics (Political Science 120) - Fall 2020, 2021 
 
