@@ -9,3 +9,5 @@ location: "Ithaca, New York"
 ---
 
 This course concerns the interrelationship between climate change and violent conflict across the globe. In the class, we explore both how climate change threatens to intensify violent conflict, and how armed conflict feeds back into environmental damage. Further, we discuss solutions to the problem, and make abstract theories concrete by discussing policy approaches to mitigation and adapation as it relates to environmental security. 
+
+[Syllabus](donaldgrasse.github.io/files/climate_security.pdf)
