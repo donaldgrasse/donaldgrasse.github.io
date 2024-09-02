@@ -8,102 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[Download my CV here]
+Download
+========
+[Download my CV here](https://donaldgrasse.github.io/grasse_cvFA24.pdf_
 
 Contact 
 ========
 dgrasse[at]cornell[dot]edu
 
-Appointments
-======
-* Visiting Assistant Professor
-  * Department of Government
-  * Cornell University
-  * July 2024
-
-* Visting Instructor 
-  * M.S. in Computational Analysis & Public Policy
-  * University of Chicago 
-  * November 2023
-  
-* Political Economy of Security Postdoctoral Research Fellow
-  * Center for International Studies
-  * University of Southern California 
-  * August 2022-August 2023
-
-Education
-======
-* Ph.D in Political Science, Emory University, 2022 
-  * Dissertation Committee: Jennifer Gandhi, Renard Sexton, Natalia Bueno, Adam Glynn 
-  * Dissertation Award: Laney Graduate School Outstanding Scholarly Research Award in the Social Sciences (2022)
-* BA in Political Science, Summa Cum Laude, University of Kentucky, 2016
-  * Honors Thesis Winner: Crum Award for best Political Science research paper in any field, University of Kentucky, 2016
-
-
-Research Interests 
-======
-Political economy of conflict and development, historical legacies of violence, causal inference 
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Working Papers
-======
-
-* "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina." with Pearce Edwards and Jennifer Gandhi (_Accepted, British Journal of Political Science_)
-
-* "Is Transitional Justice Blind? The Link between Culpability and Prosecution in Argentina's Human Rights Trials" with Pearce Edwards and Jennifer Gandhi (_Revise and Resubmit, Journal of Politics_)
-
-Works in Progress 
-======
-
-* Climate Change, Property Rights, and Conflict: Evidence from Nigeria
-
-* "What drives support for peace in Afghanistan? Three wave panel survey." with Renard Sexton, Christoph Zuercher and Manu Singh
-
-
-Grants, Awards, and Fellowships
-=====
-
-* American Political Science Association Doctoral Dissertation Research Improvement Grant (DDRIG), (2021), $14,886  
-* Southeast Asia Research Group (SEAREG) Fellow (2021)
-
-Invited Talks and Conference Presentations
-=====  
-* Empirical Studies of Conflict (ESOC) 2022, 2024
-* Virtual Workshop on Authoritarian Regimes (VWAR), 2021 
-* Southeast Asia Research Group (SEAREG), 2021 
-* Midwestern Political Science Association, 2019, 2021 
-* American Political Science Association, 2021 
-
-Teaching Experience
-=====
-
-* Climate Change and International Security - Cornell University, Fall 2024
-* Database Management - Fall 2023
-
-* Co-instructor: Introduction to Comparative Politics (Political Science 120) - Fall 2020, 2021 
-
-* Teaching Assistant: 
-  * Principles of Political Science (Political Science 111) -
-Spring 2021 
-  * Research Design and Methods (Political Science 208) - Spring 2020
-
-* Tutor
-  * Design & Analysis of Experiments (Political Science 585, Graduate) - Spring, 2022
-
-* Grader
-  * The Linear Model (Political Science 509, Graduate)- Spring 2019 
-
-
-Professional Activities
-====
-* Referee: _British Journal of Political Science_ (2024); _American Journal of Political Science_, _Comparative Political Studies_, _Conflict Management and Peace
-Science_ (2023);  _Journal of Politcs_, (2022); _International Interactions_, (2021)
-* Discussant: American Political Science Association Annual Meeting, 2022 
 
