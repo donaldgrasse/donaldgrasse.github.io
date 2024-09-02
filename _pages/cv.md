@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Download
 ========
-[Download my CV here](https://donaldgrasse.github.io/grasse_cvFA24.pdf_
+[Download my CV here](https://donaldgrasse.github.io/grasse_cvFA24.pdf)
 
 Contact 
 ========
