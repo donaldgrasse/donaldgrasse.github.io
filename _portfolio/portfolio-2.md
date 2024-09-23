@@ -3,9 +3,6 @@ title: 'FWL FTW'
 date: 2024-09-22
 permalink: /_portfolio/post1
 tags:
-  - FWL
-  - ggplot
-  - Regression
 ---
 
 Have you ever needed to plot a relationship between two variables, but you wanted the visualization to adjust for confounding features? 
