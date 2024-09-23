@@ -1,11 +1,7 @@
 ---
-title: 'FWL FTW'
+title: 'Introduction to R'
 date: 2024-09-22
 permalink: /_portfolio/post1
 tags:
 ---
-
-Have you ever needed to plot a relationship between two variables, but you wanted the visualization to adjust for confounding features? 
-
-[Read this post](https://donaldgrasse.github.io/files/fwl_post.html) 
-https://donaldgrasse.github.io/files/fwl_post.html
+[R Tutorial](https://github.com/donaldgrasse/donaldgrasse.github.io/blob/master/files/RTutorial.html)
