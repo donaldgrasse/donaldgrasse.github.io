@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* "Climate, Conservation, and Conflict: Evidence from Nigeria" with Melissa Pavlik. Presenting at ESOC 2024. [Most Recent Version](http:/donaldgrasse.github.io/files/conservation_conflict_grasse_pavlik.pdf)
+* "Climate, Conservation, and Conflict: Evidence from Nigeria" with Melissa Pavlik. Presenting at ESOC 2024. [Most Recent Version](http:/donaldgrasse.github.io/files/grasse_pavlik_climate_conservation_conflict.pdf)
   [Old Version](http://mjpavlik.github.io/files/grasse_pavlik_2024.pdf)
 
 * "Fixing the Past: The Effects of Human Rights Trials on Political Attitudes in Argentina" with Jennifer Gandhi and Pearce Edwards (Forthcoming, British Journal of Political Science) [Author Copy](http:/donaldgrasse.github.io/files/Effects_of_Trials_Transitional_Justice_bjps.pdf) 
