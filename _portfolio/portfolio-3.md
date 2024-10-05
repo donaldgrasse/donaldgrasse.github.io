@@ -1,5 +1,5 @@
 ---
-title: "Next Post"
+title: "Intro to Mapping in R"
 excerpt: 
 date: 2024-09-25
 permalink: /portfolio/portfolio-3
