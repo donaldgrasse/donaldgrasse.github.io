@@ -14,6 +14,6 @@ Download
 
 Contact 
 ========
-dgrasse[at]cornell[dot]edu
+dgrasse[at]uchicago[dot]edu
 
 
